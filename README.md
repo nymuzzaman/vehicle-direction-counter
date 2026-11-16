@@ -66,8 +66,8 @@ Two analysis modes are available:
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/VehicleTrackingCountingDirection.git
-cd VehicleTrackingCountingDirection
+git clone https://github.com/nymuzzaman/vehicle-direction-counter.git
+cd vehicle-direction-counter
 
 # 2. Create and activate a virtual environment
 python3 -m venv venv
