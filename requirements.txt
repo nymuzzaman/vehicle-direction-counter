@@ -1,0 +1,12 @@
+# Core
+numpy
+opencv-python
+supervision>=0.20.0,<0.31  # sv.ByteTrack was removed in 0.31
+tqdm
+ultralytics
+
+# Download helper (scripts/download_files.sh)
+gdown
+
+# Optional: only needed for --backend roboflow
+inference==0.9.17
